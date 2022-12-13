@@ -1,0 +1,15 @@
+C:\C#\Console\OOP.Reflection\OOP.Reflection\bin\Debug\net6.0\OOP.Reflection.exe
+C:\C#\Console\OOP.Reflection\OOP.Reflection\bin\Debug\net6.0\OOP.Reflection.deps.json
+C:\C#\Console\OOP.Reflection\OOP.Reflection\bin\Debug\net6.0\OOP.Reflection.runtimeconfig.json
+C:\C#\Console\OOP.Reflection\OOP.Reflection\bin\Debug\net6.0\OOP.Reflection.dll
+C:\C#\Console\OOP.Reflection\OOP.Reflection\bin\Debug\net6.0\OOP.Reflection.pdb
+C:\C#\Console\OOP.Reflection\OOP.Reflection\obj\Debug\net6.0\OOP.Reflection.csproj.AssemblyReference.cache
+C:\C#\Console\OOP.Reflection\OOP.Reflection\obj\Debug\net6.0\OOP.Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Console\OOP.Reflection\OOP.Reflection\obj\Debug\net6.0\OOP.Reflection.AssemblyInfoInputs.cache
+C:\C#\Console\OOP.Reflection\OOP.Reflection\obj\Debug\net6.0\OOP.Reflection.AssemblyInfo.cs
+C:\C#\Console\OOP.Reflection\OOP.Reflection\obj\Debug\net6.0\OOP.Reflection.csproj.CoreCompileInputs.cache
+C:\C#\Console\OOP.Reflection\OOP.Reflection\obj\Debug\net6.0\OOP.Reflection.dll
+C:\C#\Console\OOP.Reflection\OOP.Reflection\obj\Debug\net6.0\refint\OOP.Reflection.dll
+C:\C#\Console\OOP.Reflection\OOP.Reflection\obj\Debug\net6.0\OOP.Reflection.pdb
+C:\C#\Console\OOP.Reflection\OOP.Reflection\obj\Debug\net6.0\OOP.Reflection.genruntimeconfig.cache
+C:\C#\Console\OOP.Reflection\OOP.Reflection\obj\Debug\net6.0\ref\OOP.Reflection.dll
